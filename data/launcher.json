@@ -41,6 +41,8 @@
     {
       "title": "Angel Aura Amethyst",
       "abbr": "Amethyst",
+      "download": "https://github.com/AngelAuraMC/Amethyst-Android/releases/download/1.1.4/Amethyst.apk",
+      "version": "1.1.4",
       "github": "https://github.com/AngelAuraMC/Amethyst-Android",
       "dev": {
         "download": "https://github.com/AngelAuraMC/Amethyst-Android/actions/runs/15660924693/artifacts/3330366203",
